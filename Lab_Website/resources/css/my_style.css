@@ -1,0 +1,6 @@
+/* Add any css you want to use for you website here */
+table, th, td{
+  border: 1px solid grey;
+  padding: 15px;
+  text-align: center;
+}
